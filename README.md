@@ -1,6 +1,9 @@
 # MorphoMechanX
 
-This repo provided pre-compiled packages to install MorphoMechanX. The software needs to be run in combination with its model.
+This repo provided pre-compiled packages to install MorphoMechanX either on Linux Mint 19 or Ubuntu 20.04. 
+
+The software needs to be run in combination with its model.
+
 To test some already available models, see 
 - https://github.com/GabriellaMosca/FEM_2DOvuleGrowthModel
 - https://github.com/GabriellaMosca/MassSpring_2DovuleGrowthModel
